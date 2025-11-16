@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Vimal Jayntibhai Ode - Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Welcome, Vimal Jayntibhai Ode!</h1>
+    <p>This is your portfolio page.</p>
+    <div class="projects">
+        <div class="card">
+            <h3>Hospital Management System</h3>
+            <p>A smart hospital project with login, billing, appointments.</p>
+        </div>
+        <div class="card">
+            <h3>Portfolio Website</h3>
+            <p>Modern website built with HTML, CSS, and JavaScript.</p>
+        </div>
+    </div>
+</body>
+</html>
